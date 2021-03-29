@@ -1,0 +1,61 @@
+body {
+	background: #CCCCCC
+}
+
+h1 {
+	font-size: 40px
+}
+
+h2 {
+	font-size: 50px
+}
+
+h4 {
+	font-size: 50px
+}
+
+h5 {
+	font-size: 20px
+}
+
+p {
+	font-size: 20px
+}
+
+#jim {
+width: 100%
+}
+
+#discografia {
+	color: white; 
+	font-size: 50px;
+}
+
+.itens {
+	font-style: italic;
+	color: white;
+	font-size: 15px;
+}
+
+.div1principal {
+	padding: 20px;
+}
+
+.div2disco {
+	background: #000000;
+	padding: 20px;
+}
+
+.imgjim2 {
+	width: 300px;
+	display: inline-block;
+	margin-right: 30%;
+
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	
+	
+}
